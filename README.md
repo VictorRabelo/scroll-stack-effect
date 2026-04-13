@@ -35,7 +35,7 @@ The effect relies on two core CSS concepts:
 2. Open index.html in your favorite browser.
 
 👨‍💻 Author:
-Victor Gabriel |
+Victor Rabelo |
 Full-stack Web Developer
 
 LinkedIn: [https://www.linkedin.com/in/victor-rabelo-2a11ba204/](https://www.linkedin.com/in/victor-rabelo-2a11ba204/)
