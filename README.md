@@ -38,8 +38,8 @@ The effect relies on two core CSS concepts:
 Victor Gabriel
 Full-stack Web Developer
 
-LinkedIn [https://www.linkedin.com/in/victor-rabelo-2a11ba204/](https://www.linkedin.com/in/victor-rabelo-2a11ba204/)
+LinkedIn: [https://www.linkedin.com/in/victor-rabelo-2a11ba204/](https://www.linkedin.com/in/victor-rabelo-2a11ba204/)
 
-Portfolio [https://victor-rabelo-showcase.vercel.app/](https://victor-rabelo-showcase.vercel.app/)
+Portfolio: [https://victor-rabelo-showcase.vercel.app/](https://victor-rabelo-showcase.vercel.app/)
 
 Developed with focus on Clean Code and Frontend Performance.
