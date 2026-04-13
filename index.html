@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Modern Stacking Cards | UI Demo</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <main class="wrapper">
+    <header class="title">
+      <h1>Stacking Cards</h1>
+      <p>Efeito de empilhamento puramente com HTML e CSS</p>
+    </header>
+
+    <ul id="cards">
+      <li class="card" id="card_1" style="--index: 1;">
+        <div class="card__content">
+          <div>
+            <span class="card__number">01</span>
+            <h2 class="card__title">Frontend Architecture</h2>
+            <p class="card__description">
+              Organização de componentes e estilos escaláveis para projetos modernos.
+            </p>
+          </div>
+          <footer class="card__footer">HTML + CSS Only</footer>
+        </div>
+      </li>
+
+      <li class="card" id="card_2" style="--index: 2;">
+        <div class="card__content">
+          <div>
+            <span class="card__number">02</span>
+            <h2 class="card__title">Clean Code & SOLID</h2>
+            <p class="card__description">
+              Aplicação de princípios que garantem a manutenibilidade do software a longo prazo.
+            </p>
+          </div>
+          <footer class="card__footer">Sticky Positioning</footer>
+        </div>
+      </li>
+
+      <li class="card" id="card_3" style="--index: 3;">
+        <div class="card__content">
+          <div>
+            <span class="card__number">03</span>
+            <h2 class="card__title">Modern UI Design</h2>
+            <p class="card__description">
+              Interfaces imersivas utilizando Glassmorphism e animações nativas de scroll.
+            </p>
+          </div>
+          <footer class="card__footer">Grid Layout</footer>
+        </div>
+      </li>
+
+      <li class="card" id="card_4" style="--index: 4;">
+        <div class="card__content">
+          <div>
+            <span class="card__number">04</span>
+            <h2 class="card__title">No JavaScript</h2>
+            <p class="card__description">
+              Alta performance garantida ao delegar toda a renderização visual para a GPU através do CSS.
+            </p>
+          </div>
+          <footer class="card__footer">Performance Driven</footer>
+        </div>
+      </li>
+    </ul>
+  </main>
+</body>
+
+</html>
